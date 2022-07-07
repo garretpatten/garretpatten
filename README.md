@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @garretpatten
+- 👋 Hi, I’m @garretpatten.
 - 👀 I’m interested in: hardware, networks, app & info sec, a11y, OSS, linux, and anything-CLI.
 - 🌱 I’m currently learning application security and linux concepts, working as a Security Engineer and tinkering with a personal machine running Fedora. At the moment, I'm using quite a bit of Postman and BurpSuite and going through PortSwigger's Web Security Academy in addition to the development I do at work and on the side.
 - 💞️ I’m looking to collaborate on OSS
