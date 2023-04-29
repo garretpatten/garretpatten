@@ -6,7 +6,7 @@
 - ☁️ Salesforce Certified Platform App Builder
 
 ### About Me
-- 😎 I'm a passionate, adaptable, and quality-driven software engineer with 4 years of experience in cloud-based engineering specializing in application security & web accessibility.
+- 😎 I'm a passionate, adaptable, and quality-driven software engineer with 5 years of experience in cloud engineering specializing in application security & web accessibility.
 - 👀 I’m interested in hardware, networks, app & info sec, a11y, OSS, linux, and anythig-CLI.
 - 🔭 I’m currently working on CI/CD pipelines & vulnerability management.
 - 🌱 I’m currently learning AWS development & penetration testing skills.
