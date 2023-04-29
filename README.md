@@ -1,6 +1,6 @@
 ### Garret Patten
 #### Security Engineer
-![Security Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Security Engineer](https://imgs.xkcd.com/comics/exploits_of_a_mom.png)
 
 - 👀 I’m interested in: hardware, networks, app & info sec, a11y, OSS, linux, and anythig-CLI.
 - 🔭 I’m currently working on CI/CD pipelines & vulnerability management 
