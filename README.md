@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
 [![GitHub ReadMe Header](./banner.gif)](https://github.com/garretpatten/)
 
 # Hi, I'm Garret! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
@@ -13,7 +15,7 @@
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=garretpatten&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="garretpatten's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=garretpatten&theme=tokyonight&hide_border=true" alt="garretpatten's Streak" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=garretpatten&theme=tokyonight&hide_border=true" alt="garretpattens Streak" height="165">
   </p>
 </div>
 
@@ -25,3 +27,5 @@
 ### Employer?
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/folders/<ID>?usp=sharing" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
