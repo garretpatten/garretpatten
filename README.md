@@ -1,4 +1,4 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> --> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=123524&height=120&section=header" alt="header"/> 
 
 [![GitHub ReadMe Header](./banner.gif)](https://github.com/garretpatten/)
 
@@ -16,12 +16,9 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=garretpatten&theme=tokyonight&show_icons=true&count_private=true" alt="garretpatten's Stats"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=garretpatten&theme=tokyonight" alt="garretpatten's streaks"/>
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=16837224" alt="garretpatten's Stack Overflow"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=garretpatten&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="garretpatten's Top Languages"/>
   </p>
 </div>
-
-<!-- [![Garret Patten StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16837224)](https://stackoverflow.com/users/16837224/garret-patten) -->
 
 ## Contact Me
 
@@ -32,4 +29,6 @@
 <!-- > [!IMPORTANT] -->  
 <!-- > <a href="https://drive.google.com/drive/folders/<ID>?usp=sharing" download>Download my resume</a> -->
 
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/> -->
+<!-- [![Garret Patten StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16837224)](https://stackoverflow.com/users/16837224/garret-patten) -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=123524&height=120&section=footer" alt="footer"/>
