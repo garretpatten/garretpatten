@@ -14,9 +14,9 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=garretpatten&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="garretpatten's Stats" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=garretpatten&theme=tokyonight&show_icons=true&count_private=true" alt="garretpatten's Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=garretpatten&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="garretpatten's Top Languages"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=garretpatten&theme=tokyonight" alt="mystreak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=garretpatten&theme=tokyonight" alt="garretpatten's streaks"/>
   </p>
 </div>
 
