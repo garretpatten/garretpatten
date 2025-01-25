@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> --> 
 
 [![GitHub ReadMe Header](./banner.gif)](https://github.com/garretpatten/)
 
@@ -20,15 +20,15 @@
   </p>
 </div>
 
-[![Garret Patten StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16837224)](https://stackoverflow.com/users/16837224/garret-patten)
+<!-- [![Garret Patten StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16837224)](https://stackoverflow.com/users/16837224/garret-patten) -->
 
 ## Contact Me
 
 - Interested in working together? Reach out to me via <a href="mailto:garret.patten@proton.me">email.</a>
 - Got a question or just curious about something? Feel free to ask!
 
-### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/<ID>?usp=sharing" download>Download my resume</a>
+<!-- ### Employer? -->
+<!-- > [!IMPORTANT] -->  
+<!-- > <a href="https://drive.google.com/drive/folders/<ID>?usp=sharing" download>Download my resume</a> -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/> -->
