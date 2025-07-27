@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004687&height=120&section=header" alt="header"/>
 
-# Garret Patten
+# Hey, I'm Garret! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ![Profile views](https://komarev.com/ghpvc/?username=garretpatten&label=Profile%20views&color=60598F&style=flat)
 
