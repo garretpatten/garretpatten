@@ -27,14 +27,6 @@ I design secure pipelines, build resilient tools, and advocate for accessibility
 
 ---
 
-### 🔐 Security Engineering
-
-- Secure SDLC design: threat modeling, shift left, least privilege, manual and automated negative-path testing
-- Supply chain and pipeline hardening: WAFs, isolation, artifact verification, defense-in-depth
-- Policy-as-code, SAST/DAST integration, and practical risk management
-
----
-
 ### 📐 Engineering Philosophy
 
 - Maintainability is non-negotiable
