@@ -1,58 +1,45 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004687&height=120&section=header" alt="header"/>
 
-# Hey, I'm Garret! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Garret Patten: Senior Security Engineer | DevSecOps & Platform Governance
 
 ![Profile views](https://komarev.com/ghpvc/?username=garretpatten&label=Profile%20views&color=60598F&style=flat)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I'm a systems-minded software engineer with a builder’s mindset and a QA engineer’s attention to detail.  
-I design secure pipelines, build resilient tools, and advocate for accessibility and correctness across the stack.
+### The Mandate
 
----
-
-### 🧭 Journey
-
-- Started in **QA** — learned to test like an adversary and think in edge cases  
-- Moved into **engineering** — built accessible, high-stakes web apps for financial platforms  
-- Transitioned to **security** — applied offensive and defensive techniques to harden real systems  
-- Now focused on **tooling and infrastructure** that make secure delivery the default
+I am a **Senior Product Security Engineer** and technical lead specializing in Developer Enablement and CI/CD Hardening at organizational scale. I design secure pipelines and scalable processes, build automations, and serve as the primary technical escalation point for Product Security.
 
 ---
 
-### ⚙️ What I Build
+### 🛠️ Core Capabilities & Deliverables
 
-- CI/CD systems (GitHub Actions, GitLab CI, hardened runners, secure artifacts, deployment automation)
-- Backend tools and internal platforms that enable dev velocity without compromising security
-- Frontend components and frameworks with first-class accessibility (WCAG AA+)
-- Cross-cutting automation in Python, Bash, JS, and other fit-for-purpose tools
+* **Platform Governance:** Technical lead for Product Security. Administering multi-org GitHub Enterprise (1k+ repos) and co-managing GitLab/security pipelines.
+* **DevSecOps Automation:** Designing and implementing critical CI/CD automations with GitHub Actions for mandatory controls:
+    * SBOM generation and dependency management (Orca platform).
+    * Third-party **Node.js License Policy Enforcement** pipeline against legal allow/deny lists.
+    * SAST and secrets scanning with real-time alerting.
+* **Vulnerability Insight & Remediation:** Deployment of Sourcegraph and DefectDojo to centralize vulnerability insights and drive code-health metrics. Established organization-wide CI/CD code ownership enforcement.
+* **Developer Enablement:** Leading security reviews across products and infrastructure. Scaled security consultation via Product Security office hours and support channels.
 
 ---
 
-### 📐 Engineering Philosophy
+### 🌐 Architectural Focus
 
-- Maintainability is non-negotiable
-- Accessibility is part of quality
-- Privacy, correctness, and ethics matter
+* **Strategic Impact:** Co-driving team roadmap and participating in hiring for security engineering roles. Coordinating deliverables across product and infrastructure.
+* **Compliance & Quality:** Reducing manual configuration and enforcing least privilege through design (external permissions management). Driving accessibility (WCAG 2.0 AA) and secure development standards.
+* **Technical Content:** Driving security awareness org-wide through monthly technical content (OWASP Top 10, API security).
 
 ---
 
 ### 🧑‍🤝‍🧑 Open Source
 
-- Author of [Semgrep Apex Ruleset](https://github.com/semgrep/semgrep-rules/tree/develop/apex) for Salesforce static analysis
-- Contributor to FOSS tools that improve efficiency, security, and developer workflows
+* Authored and open-sourced a **Semgrep ruleset** for Salesforce Apex/VisualForce static analysis.
+* Contributor to FOSS tools that improve security, developer experience, and governance.
 
 ---
 
-### 📫 Contact
+### 📫 Targeting
 
-- Email: [garret.patten@proton.me](mailto:garret.patten@proton.me)
-- Open to fully remote staff roles or FOSS-focused work that aligns with privacy, quality, and integrity
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garretpatten&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Stats"/>
-</p>
+Seeking **Staff/Principal Security Engineer** or **DevSecOps Architect** roles (Fully Remote) focused on platform scale, governance, and open-source contribution aligned with security and privacy mandates.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004687&height=120&section=footer" alt="footer"/>
