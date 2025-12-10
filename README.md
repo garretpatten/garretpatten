@@ -4,34 +4,15 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=garretpatten&label=Profile%20views&color=60598F&style=flat)
 
-I'm a systems-minded software engineer with a builder’s mindset and a QA engineer’s attention to detail.  
-I design secure pipelines, build resilient tools, and advocate for accessibility and correctness across the stack.
-
----
-
-### 🧭 Journey
-
-- Started in **QA** — learned to test like an adversary and think in edge cases  
-- Moved into **engineering** — built accessible, high-stakes web apps for financial platforms  
-- Transitioned to **security** — applied offensive and defensive techniques to harden real systems  
-- Now focused on **tooling and infrastructure** that make secure delivery the default
-
----
-
-### ⚙️ What I Build
-
-- CI/CD systems (GitHub Actions, GitLab CI, hardened runners, secure artifacts, deployment automation)
-- Backend tools and internal platforms that enable dev velocity without compromising security
-- Frontend components and frameworks with first-class accessibility (WCAG AA+)
-- Cross-cutting automation in Python, Bash, JS, and other fit-for-purpose tools
+I am a systems-minded security engineer with a builder's mindset and seven years of experience spanning QA, software engineering, and security. I design secure pipelines and scalable processes, drive developer enablement programs, and advocate for security as a shared organizational responsibility.
 
 ---
 
 ### 📐 Engineering Philosophy
 
-- Maintainability is non-negotiable
-- Accessibility is part of quality
-- Privacy, correctness, and ethics matter
+- Simplicity is the apex of design. Complexity is a failure of vision; mastery is measured by the clarity and minimalism of the solution.
+- Be outcome-driven, not implementation-attached. Code is temporary; results are the objective. Cultivate rigor without sentimentality.
+- Quality is the prerequisite. Security, correctness, and auditability are non-negotiable constraints, not aspirational features.
 
 ---
 
@@ -46,13 +27,5 @@ I design secure pipelines, build resilient tools, and advocate for accessibility
 
 - Email: [garret.patten@proton.me](mailto:garret.patten@proton.me)
 - Open to fully remote staff roles or FOSS-focused work that aligns with privacy, quality, and integrity
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garretpatten&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Stats"/>
-</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004687&height=120&section=footer" alt="footer"/>
