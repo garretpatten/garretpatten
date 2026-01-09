@@ -1,9 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004687&height=120&section=header" alt="header"/>
 
-## Garret Patten
-
----
-
 ### About Me
 
 I'm a systems-minded engineer with a builder's mindset and experience spanning QA, software engineering, and security.
