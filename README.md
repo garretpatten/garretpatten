@@ -10,8 +10,8 @@ I design and build automation and infrastructure that reduce friction and risk: 
 
 ### Engineering Philosophy
 
-- Simplicity is the apex of design. Complexity signals incomplete understanding; mastery is revealed through clarity and minimalism.
-- Outcomes are the objective. Implementations are transient; attachment to code obscures results.
-- Quality is the prerequisite. Security, correctness, and auditability are constraints—not aspirations.
+- Simplicity is the apex of design; complexity signals incomplete understanding.
+- Outcomes are the objective; implementations are transient and disposable.
+- Quality is a prerequisite; security, correctness, and reliability are constraints, not aspirations.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004687&height=120&section=footer" alt="footer"/>
